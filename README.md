@@ -1,5 +1,5 @@
 ##  👋 Hi！ Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Zhoujun Zhou, a student from <b>Liaoning, China</b>, currently living in <b>Shanghai, China</b>. </p>
+<p>Welcome to my page! </br> I'm <b>Zhoujun Zhou</b>, a student from <b>Liaoning, China</b>, currently living in <b>Shanghai, China</b>. </p>
 <!--
 **xingguangweiwo/xingguangweiwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
